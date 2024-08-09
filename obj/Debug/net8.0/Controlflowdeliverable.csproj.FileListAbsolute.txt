@@ -1,0 +1,14 @@
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\bin\Debug\net8.0\Controlflowdeliverable.exe
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\bin\Debug\net8.0\Controlflowdeliverable.deps.json
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\bin\Debug\net8.0\Controlflowdeliverable.runtimeconfig.json
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\bin\Debug\net8.0\Controlflowdeliverable.dll
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\bin\Debug\net8.0\Controlflowdeliverable.pdb
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\Controlflowdeliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\Controlflowdeliverable.AssemblyInfoInputs.cache
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\Controlflowdeliverable.AssemblyInfo.cs
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\Controlflowdeliverable.csproj.CoreCompileInputs.cache
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\Controlflowdeliverable.dll
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\refint\Controlflowdeliverable.dll
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\Controlflowdeliverable.pdb
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\Controlflowdeliverable.genruntimeconfig.cache
+C:\Users\DanielGonzalez\Documents\NightTechworkshop\Controlflowdeliverable\obj\Debug\net8.0\ref\Controlflowdeliverable.dll
